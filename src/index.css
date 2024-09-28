@@ -66,3 +66,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.box{
+  margin: 3px solid red;
+  padding: 30px;
+  border-radius: 10px;
+}

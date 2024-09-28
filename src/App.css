@@ -70,3 +70,9 @@
   background-color: #e2e2e2;
   color: #000;
 }
+
+.box{
+  margin : 4px solid red;
+  padding: 30px;
+  text-align: center;
+}
